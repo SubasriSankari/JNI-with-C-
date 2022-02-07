@@ -1,0 +1,9 @@
+import java.nio.file.*;
+import java.nio.file.attribute.*;
+import java.util.Set;
+
+public class Test{
+	public static void (String[] args)throws Exception{
+		Path path = Paths.getto
+	}
+}
